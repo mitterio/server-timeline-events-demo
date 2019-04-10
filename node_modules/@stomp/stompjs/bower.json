@@ -1,0 +1,4 @@
+{
+  "name": "stompjs",
+  "main": "lib/stomp.js"
+}

@@ -1,0 +1,10 @@
+pkg
+.settings
+bin
+data
+dist/test
+TODO.txt
+node_modules
+docs/doc/public
+/.idea/
+/test.log

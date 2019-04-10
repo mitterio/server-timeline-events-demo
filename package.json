@@ -1,0 +1,20 @@
+{
+  "name": "express-react-starter",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@mitter-io/models": "^0.6.38",
+    "@mitter-io/node": "^0.5.11-1",
+    "body-parser": "^1.17.2",
+    "cookie-parser": "^1.4.3",
+    "debug": "~2.6.3",
+    "express": "^4.15.3",
+    "jade": "^1.11.0",
+    "morgan": "^1.8.2",
+    "touch": "^3.1.0",
+    "uuid": "^3.3.2"
+  },
+  "scripts": {
+    "start": "./server.js"
+  }
+}

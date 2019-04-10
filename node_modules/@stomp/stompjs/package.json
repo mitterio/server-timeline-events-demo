@@ -1,0 +1,43 @@
+{
+  "name": "@stomp/stompjs",
+  "version": "4.0.8",
+  "author": "Deepak Kumar <deepak@kreatio.com>",
+  "description": "STOMP for JavaScript apps (Web browser & node.js)",
+  "scripts": {
+    "build": "cake build",
+    "lint": "coffeelint -f coffeelint.json -r src",
+    "test": "cake test"
+  },
+  "devDependencies": {
+    "coffee-script": "^1.11.0",
+    "coffeelint": "^1.16.0",
+    "connect": "^3.6.2",
+    "jquery": "^3.2.1",
+    "qunit": "^1.0.0",
+    "uglify-js": "^3.0.15"
+  },
+  "optionalDependencies": {
+    "websocket": "^1.0.24"
+  },
+  "directories": {
+    "doc": "docs",
+    "example": "example",
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stomp-js/stomp-websocket"
+  },
+  "keywords": [
+    "STOMP",
+    "Web sockets",
+    "messaging",
+    "queue",
+    "WebSocket",
+    "rabbitmq"
+  ],
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/stomp-js/stomp-websocket/issues"
+  }
+}
